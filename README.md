@@ -17,7 +17,7 @@ A few examples of insights that the Marketing Director as well as the advisor us
 
 ## Assumptions / Given Values 
 
-Analyzing the dataset of the Travel Bookings Data, we can determine the significance of each attribute within the dataset: 
+Analyzing the dataset of the [Travel Bookings Data](https://github.com/junjameshan/travel_agency_bookings/blob/main/Travel%20Bookings%20Data.csv), we can determine the significance of each attribute within the dataset: 
 
 - _Date_booked_: Date that the travel arrangement was booked 
 - _Arrival_date_: Arrival date for the travel arrangement 
