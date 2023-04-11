@@ -33,5 +33,38 @@ Analyzing the dataset of the [Travel Bookings Data](https://github.com/junjamesh
 - _Your_Commission_split_: Total user advisor commission percentage
 - _Your_Commission_: Total user advisor commission in dollar figures 
 
+## Analysis 
 
+The analysis of the queries performed can be found in the link shown below: 
 
+[SQL Queries Analysis](https://github.com/junjameshan/travel_agency_bookings/blob/main/SQL%20Analysis.md)
+
+## Conclusions & Suggestions 
+
+In addition to the data that is provided by the current dataset, further data points that will be beneficial in analyzing for future purposes are as follows:
+
+1. **Demographic of clients**: Demographics of clients involve data such as age, location of residency,
+occupation, ethnicity, and even marital status as well. These data points are
+valuable in that it can be utilized to create a target market that the travel agency can
+hyperfocus on for marketing and understanding the core of the company’s
+customer base. It can also bring up questions around which demographic should
+the company focus on targeting for future markets and what is the best GTM
+strategy for how we will be able to reach these targeted markets?
+
+2. **Location of destinations**: Another useful data point that can be included for future purposes is the location
+of the destinations where the guests will be traveling to. This is beneficial in that it
+can provide a great source of information in the hot cities and countries where
+clients are interested in traveling to as well as creating additional commissions
+for suggesting activities and amenities that are popular with the city. By having
+this data at hand, the travel agency can create a suggested list of cities that are considered to
+be “hot” with a curated list of hotels, activities and amenities that can be included
+in a package for the city as well.
+
+3. **Reviews of clients and agents**: The last additional data point that can be included within the travel agency platform
+is the development of a review feature for its clients and travel agents. This
+feature can create a credibility system where agents will be able to develop a
+reputation among its source of previous experience of bookings travel
+arrangements for its clients and also provide feedback regarding an agent’s
+expertise in certain cities and countries to visit as well. On the client’s end, it can
+provide credibility in their responsiveness to payments, bookings, and even
+communication.
