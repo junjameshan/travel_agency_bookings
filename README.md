@@ -22,11 +22,11 @@ Analyzing the dataset of the Travel Bookings Data, we can determine the signific
 - _Date_booked_: Date that the travel arrangement was booked 
 - _Arrival_date_: Arrival date for the travel arrangement 
 - _Departure_date_: Departure date for the travel arrangement 
-- _Supplier_: The type of travel booking (i.e. Hotel, Cruise, Villa, etc.) 
+- _Supplier_: The type of travel booking **(i.e. Hotel, Cruise, Villa, etc.)** 
 - _Guest_name_: Name of the guest for the travel booking 
 - _Room_nights_: Number of nights that the guest will be staying for in the travel arrangement 
 - _Confirmation_: Confirmation number for the travel booking 
-- _Booking_status_: Status of travel booking (i.e. Booked, Canceled, Completed, etc.) 
+- _Booking_status_: Status of travel booking **(i.e. Booked, Canceled, Completed, etc.)** 
 - _Commissionable_value_: Amount that is able to commissioned for the travel agency and user advisor 
 - _Commission_: Total commission percentage
 - _Total_commission_: Total commission in dollar figures 
